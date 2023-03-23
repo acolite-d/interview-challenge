@@ -7,7 +7,7 @@ Please follow the instructions below to define data modules, generate a database
 Below are all the tasks/expectations required to complete this challenge. These tasks are not listed in any defined order, and you may go about these tasks in any order you see best:
 
 
-**NOTE: For those that want to run this code to demonstrate, please conduct Alembic migrations after docker-compose up!**
+**NOTE: For those that want to run this code to demonstrate, please conduct Alembic migrations after docker-compose up! alembic upgrade head**
 
 **Please organize these tasks and update the ReadMe based on the order you complete them!**
 
